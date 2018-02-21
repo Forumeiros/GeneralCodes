@@ -4,7 +4,7 @@
  * Criar inputs na criação do tópico.
  *
  * @author   lffg {@link https://github.com/lffg}
- * @version  1.0.1
+ * @version  1.0.2
  */
 
 (function($) {
