@@ -137,4 +137,4 @@
       (new FA.Posting.Inputs(self)).init();
     });
   });
-}(jQuery));
+})(jQuery);
