@@ -3,7 +3,7 @@
 /**
  * Criar tags BBCode.
  * 
- * @author   Luiz Felipe <> {@link https://lffg.github.io}
+ * @author   Luiz Felipe F. <> {@link https://lffg.github.io}
  * @version  {alpha-1.0.0}
  * @see      {@link http://ajuda.forumeiros.com}
  * @license  MIT
