@@ -112,7 +112,7 @@
       $this.html($this.html().replace(regex, function(text, title, content) {
         return self.config.replace
           .replace(/{{title}}/gi, title || '')
-          .replace(/{{content}}/gi, match || '')
+          .replace(/{{content}}/gi, content || '')
         ;
       }));
     });
