@@ -15,16 +15,16 @@
   var tags = [
     {
       tag: '[success]',
-      replace: '<div class="fa-parsed-tag fa-tag-success"><h4>{{title}}</h4>{{content}}</div>'
+      replace: '<div class="fa-parsed-tag fa-tag-success"><h5>{{title}}</h5>{{content}}</div>'
     }, {
       tag: '[warning]',
-      replace: '<div class="fa-parsed-tag fa-tag-warning"><h4>{{title}}</h4>{{content}}</div>'
+      replace: '<div class="fa-parsed-tag fa-tag-warning"><h5>{{title}}</h5>{{content}}</div>'
     }, {
       tag: '[danger]',
-      replace: '<div class="fa-parsed-tag fa-tag-danger"><h4>{{title}}</h4>{{content}}</div>'
+      replace: '<div class="fa-parsed-tag fa-tag-danger"><h5>{{title}}</h5>{{content}}</div>'
     }, {
       tag: '[info]',
-      replace: '<div class="fa-parsed-tag fa-tag-info"><h4>{{title}}</h4>{{content}}</div>'
+      replace: '<div class="fa-parsed-tag fa-tag-info"><h5>{{title}}</h5>{{content}}</div>'
     }, {
       tag: '[visitor]',
       replace: function() {
