@@ -1,6 +1,13 @@
 /*globals jQuery*/
 
-/** @author lffg <https://lffg.github.io> */
+/**
+ * Criar tags BBCode.
+ * 
+ * @author   Luiz Felipe <> {@link https://lffg.github.io}
+ * @version  {alpha-1.0.0}
+ * @see      {@link http://ajuda.forumeiros.com}
+ * @license  MIT
+ */
 
 (function($) {
   'use strict';
